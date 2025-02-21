@@ -14,14 +14,7 @@ A simple mortgage calculator written in Java that calculates monthly payments ba
 3. Enter the **annual interest rate** (e.g., `3.44`).
 4. Enter the loan **period in years** (e.g., `30`).
 5. The program calculates and displays the **monthly mortgage payment**.
-
-## Example
-Welcome to mortgage calculator!
-Principal: 100000
-Annual Interest Rate: 3.44
-Period (Years): 30
-Mortgage: $445.32
-
+6. The program will also show your **total payment**.
 
 ## Requirements
 - Java 8 or later
